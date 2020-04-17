@@ -90,9 +90,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git@github.com:mehaboobarifdeveloper/devops.git</connection>
-		<developerConnection>scm:git@github.com:mehaboobarifdeveloper/devops.git</developerConnection>
+		<connection>scm:git@github.com:mehaboobarifdeveloper/devops-linux.git</connection>
+		<developerConnection>scm:git@github.com:mehaboobarifdeveloper/devops-linux.git</developerConnection>
 		<tag>HEAD</tag>
-		<url>git@github.com:mehaboobarifdeveloper/devops.git</url>
+		<url>git@github.com:mehaboobarifdeveloper/devops-linux.git</url>
 	</scm>
 </project>
